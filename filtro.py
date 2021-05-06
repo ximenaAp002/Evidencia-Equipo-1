@@ -32,7 +32,7 @@ while True:
         dif=0
         
         #ajustar la imagen hacia la cara bajandola un poco
-        porcion_alto = filas_image // 1
+        porcion_alto = filas_image // 2
         
         # limites
         if y - filas_image + porcion_alto >=0:
