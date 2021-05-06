@@ -1,2 +1,15 @@
 # Evidencia Equipo 1
-Prueba
+Integrantes: 
+- Jovanny Rafael Ramirez
+- Agustín Gutiérrez Talavera
+- Ana Luisa Montero
+- Diana Rojas
+- Ximena Aquino Pérez
+## Instalar dependencias necesarias:
+- Python3
+- OpenCV
+- TensorFlow
+- pip 21.1.1
+- Brew
+- Mtcnn
+
